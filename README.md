@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 About IF-INFO
+## 📌 About IP-INFO
 
 **IP-INFO** is a powerful command-line IP Tracker tool built in Python that helps you trace any **public IP address** and fetch detailed geolocation information like:
 
