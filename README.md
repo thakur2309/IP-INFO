@@ -34,7 +34,7 @@ pip install requests
 
 # Step 3: Run the script
 python if-info.py
-
+```
 
 ---
 
