@@ -26,13 +26,17 @@ It provides colorful and clear CLI output, and is specially crafted for ethical 
 ## ⚙️ How to Use (Termux / Linux / Windows)
 
 ```bash
-# Step 1: Install Python (if not installed)
+# Step 1: Clone the tool from GitHub
+git clone https://github.com/thakur2309/IP-INFO.git
+cd IP-INFO
+
+# Step 2: Install Python (if not installed)
 pkg install python -y
 
-# Step 2: Install required module
+# Step 3: Install required Python module
 pip install requests
 
-# Step 3: Run the script
+# Step 4: Run the script
 python if-info.py
 ```
 
