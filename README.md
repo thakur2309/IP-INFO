@@ -1,4 +1,4 @@
-<h1 align="center">🔥 IF-INFO 🔥</h1>
+<h1 align="center">🔥 IP-INFO 🔥</h1>
 <p align="center">
   <strong>Advanced IP Tracker Tool using Python</strong><br>
   <em>Created by Alok Thakur | YouTube: Firewall Breaker</em>
@@ -8,7 +8,7 @@
 
 ## 📌 About IF-INFO
 
-**IF-INFO** is a powerful command-line IP Tracker tool built in Python that helps you trace any **public IP address** and fetch detailed geolocation information like:
+**IP-INFO** is a powerful command-line IP Tracker tool built in Python that helps you trace any **public IP address** and fetch detailed geolocation information like:
 
 - 🌍 Country, Region, City, Postal Code
 - 🌐 ISP / Organization
@@ -54,7 +54,7 @@ Use it only for **learning, awareness, and ethical research**.
 
 👨‍💻 **Author**  
 - Name: **Alok Thakur**  
-- YouTube: [🔥 Firewall Breaker](https://www.youtube.com/@FirewallBreaker)
+- YouTube: [🔥 Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
 
 ---
 
@@ -63,7 +63,7 @@ If this tool helped you, kindly:
 
 - ⭐ Star the GitHub Repo  
 - 📲 Share with friends  
-- 📺 Subscribe to: [Firewall Breaker](https://www.youtube.com/@FirewallBreaker)  
+- 📺 Subscribe to: [Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)  
 - 💬 Comment your feedback on YouTube  
 
 ---
