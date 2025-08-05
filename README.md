@@ -31,7 +31,7 @@ git clone https://github.com/thakur2309/IP-INFO.git
 cd IP-INFO
 
 # Step 2: Install Python (if not installed)
-pkg install python -y
+apt install python -y
 
 # Step 3: Install required Python module
 pip install requests
@@ -67,6 +67,24 @@ If this tool helped you, kindly:
 - 💬 Comment your feedback on YouTube  
 
 ---
+
+## 📌 Contact Me  
+
+<a href="https://youtube.com/@firewallbreaker09">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>  
+<br>  
+
+<a href="https://github.com/thakur2309?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>  
+<br>  
+
+<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
+</a>
+
+
 
 ✅ **Stay Ethical. Learn Legit. Hack Smart.**
 
