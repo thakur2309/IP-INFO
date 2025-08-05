@@ -37,7 +37,7 @@ apt install python -y
 pip install requests
 
 # Step 4: Run the script
-python if-info.py
+python ip-info.py
 ```
 
 ---
