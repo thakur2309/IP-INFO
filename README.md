@@ -34,7 +34,7 @@ cd IP-INFO
 apt install python -y
 
 # Step 3: Install required Python module
-pip install requests
+pip install requests ipaddress 
 
 # Step 4: Run the script
 python ip-info.py
